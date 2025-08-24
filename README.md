@@ -36,6 +36,5 @@ By automating report generation, this Python application simplifies data collect
 
 #Output
 
-[report.pdf](https://github.com/user-attachments/files/19072738/report.pdf)
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/4ffb45f2-07a3-42b2-af04-4d6c2307530e" />
